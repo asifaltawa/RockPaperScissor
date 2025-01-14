@@ -30,3 +30,9 @@ To run the game locally:
 1. Clone this repository:
    ```bash
    git clone https://github.com/asifaltawa/RockPaperScissor.git
+
+   Future Enhancements
+Add more visual effects and animations.
+Implement multiplayer functionality.
+Add difficulty levels (easy, medium, hard).
+Deploy the game online for public access.
